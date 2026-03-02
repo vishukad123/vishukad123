@@ -10,12 +10,12 @@ Ex-Infosys, Accenture | Clients: AstraZeneca, Pfizer, OVO Energy, EDF, Dentsu
 
 ## Tech Stack
 **KEY SKILLS** 
- ** Full-Stack Development:** ReactJS, Redux, MERN/MEAN Stack, JavaScript, NodeJS, MySQL, 
+ - ** Full-Stack Development:** ReactJS, Redux, MERN/MEAN Stack, JavaScript, NodeJS, MySQL, 
         MongoDB, ExpressJS, Apollo-GraphQL, Python, TypeScript 
-** Project Management:** Agile Methodologies, CI/CD, Deployment, Process Discovery 
-** Cloud and Database:** AWS, Azure, Google Cloud, PostgreSQL, Server Configuration 
-** UI/UX Design:** Material UI, Semantic UI, Prototyping, Web Design 
-** Other Tools & Systems** Git, Jira, Confluence, SharePoint, DevOps, Linux/Unix, Docker, Kubernetes 
+- ** Project Management:** Agile Methodologies, CI/CD, Deployment, Process Discovery 
+- ** Cloud and Database:** AWS, Azure, Google Cloud, PostgreSQL, Server Configuration 
+- ** UI/UX Design:** Material UI, Semantic UI, Prototyping, Web Design 
+- ** Other Tools & Systems** Git, Jira, Confluence, SharePoint, DevOps, Linux/Unix, Docker, Kubernetes 
 
 ## Featured Projects
 - **[Stapleit.io](https://github.com/vishukad123/stapleit)** (2025-2026) – AI mentor matching, micro-sessions, gamified rewards (Live: https://stapleit.vercel.app)
