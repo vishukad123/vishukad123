@@ -9,10 +9,13 @@ Ex-Infosys, Accenture | Clients: AstraZeneca, Pfizer, OVO Energy, EDF, Dentsu
 💼 Open to: Permanent Full-Stack/React roles in UK (Hybrid/Remote, Leicester/Manchester/London)
 
 ## Tech Stack
-**Frontend:** React, Redux, TypeScript, Next.js, Material UI  
-**Backend:** Node.js, Express, GraphQL (Apollo), Python  
-**Databases:** PostgreSQL, MongoDB, MySQL  
-**Cloud/DevOps:** AWS, Azure, Docker, CI/CD, Git  
+KEY SKILLS 
+• Full-Stack Development: ReactJS, Redux, MERN/MEAN Stack, JavaScript, NodeJS, MySQL, 
+MongoDB, ExpressJS, Apollo-GraphQL, Python, TypeScript 
+• Project Management: Agile Methodologies, CI/CD, Deployment, Process Discovery 
+• Cloud and Database: AWS, Azure, Google Cloud, PostgreSQL, Server Configuration 
+• UI/UX Design: Material UI, Semantic UI, Prototyping, Web Design 
+• Other Tools & Systems: Git, Jira, Confluence, SharePoint, DevOps, Linux/Unix, Docker, Kubernetes 
 
 ## Featured Projects
 - **[Stapleit.io](https://github.com/vishukad123/stapleit)** (2025-2026) – AI mentor matching, micro-sessions, gamified rewards (Live: https://stapleit.vercel.app)
